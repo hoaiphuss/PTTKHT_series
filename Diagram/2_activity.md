@@ -10,7 +10,7 @@
 
 - Cách vẽ
 
-![alt text](image/image.png)
+![alt text](sequence_image/image.png)
 
 ## Giải thích
 
